@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132979443321",
+    "project_id": "flunime-9f75c",
+    "storage_bucket": "flunime-9f75c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132979443321:android:701b0bcffdc2af264ab6a8",
+        "android_client_info": {
+          "package_name": "com.example.flunime_flutix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132979443321-a2u9u3j8m7i6goi4i90rgngvl537eber.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQs4hKJSsefpt13ho7klSwrcdaOhhvz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132979443321-a2u9u3j8m7i6goi4i90rgngvl537eber.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
